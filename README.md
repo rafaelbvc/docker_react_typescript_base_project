@@ -58,7 +58,7 @@ nginx.conf
 
 output app/.nginx/nginx.conf
 
-Insert the code below:
+Insert the code below (PS: from https://github.com/docker/awesome-compose/blob/master/react-nginx/README.md):
 
 ##############################################
 
@@ -86,7 +86,7 @@ Create a file on the root of aplication app/:
 
 output app/.dockerignore
 
-Insert the code below:
+Insert the code below (PS: from https://github.com/docker/awesome-compose/blob/master/react-nginx/README.md):
 
 ##############################################
 
@@ -105,7 +105,7 @@ Dockerfile
 
 output app/Dockerfile
 
-Insert the code below:
+Insert the code below (PS: from https://github.com/docker/awesome-compose/blob/master/react-nginx/README.md):
 
 ##############################################
 
@@ -185,7 +185,7 @@ compose.yaml
 
 output app/compose.yaml
 
-Insert the code below:
+Insert the code below (PS: from https://github.com/docker/awesome-compose/blob/master/react-nginx/README.md):
 
 ##############################################
 
